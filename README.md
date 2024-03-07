@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hey there 🤚️ I'm Veera Venkata Karthik:
 🔭 I’m currently working on Kaggle competitions<br>👯 I’m looking to collaborate on Data science Projects<br>🤝 I’m looking for help with Mentorship in Data Science <br>🌱 I’m currently learning Machine Learning,Deep Learning<br>💬 Ask me about Data Science, ML, DL, NLP<br>⚡ Fun fact U need not to be an expert to contribute to the projects.
 
 
